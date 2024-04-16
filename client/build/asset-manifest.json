@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a94c424b.css",
+    "main.js": "/static/js/main.af968201.js",
+    "static/media/piclogin2.png": "/static/media/piclogin2.ba0af8f5a0ff8447a982.png",
+    "static/media/registerpic.png": "/static/media/registerpic.7ec6a7aabf167dba4c09.png",
+    "static/media/homepicmain.png": "/static/media/homepicmain.71e9ffbc8855347f3c0c.png",
+    "static/media/adminpic.png": "/static/media/adminpic.c23900e60274852cfeee.png",
+    "static/media/orgimg.png": "/static/media/orgimg.ceb88976e875ec2c45a8.png",
+    "static/media/donorpic.png": "/static/media/donorpic.15f2b12742727d87b1eb.png",
+    "static/media/hospitalpic.png": "/static/media/hospitalpic.c8a88245a89c265a0e4a.png",
+    "index.html": "/index.html",
+    "main.a94c424b.css.map": "/static/css/main.a94c424b.css.map",
+    "main.af968201.js.map": "/static/js/main.af968201.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a94c424b.css",
+    "static/js/main.af968201.js"
+  ]
+}
